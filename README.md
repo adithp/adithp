@@ -1,14 +1,15 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#FF4B91">Adith</span>!</h1>
-<h3 align="center">🌟 Passionate Full Stack Developer from Kozhikode, India 🌟</h3>
+<!-- Header Banner -->
+<h1 align="center">✨ Hi, I'm Adith 👋</h1>
+<h3 align="center">💻 Full Stack Developer | 🌐 Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
 
-## 🌈 About Me
+## 🌟 About Me
+- 🌍 From **Kozhikode, Kerala**
 - 🎓 **B.Sc. Computer Science (2023–2025)** @ Calicut University  
 - 💻 Completed **Full Stack Development** course @ Steyp  
-- 🚀 Currently **Upskilling** & exploring **new technologies**  
-- ❤️ Passionate about **Coding & IT**
+- 🚀 Currently **Upskilling** in Web Development  
+- ❤️ Passionate about **Coding, IT & Open Source**
 
 ---
 
@@ -43,7 +44,6 @@
 ---
 
 ## 📌 Project Highlights  
-
 - 🌦 **WeatherApp** → Mobile app (React Native + OpenWeather API) with real-time weather  
 - 🛒 **Exclusive** → Responsive E-commerce website (HTML, CSS, JS)  
 - 📖 **EduVision (Ongoing)** → Notes organizer with OCR (React + Django)  
@@ -52,24 +52,32 @@
 ---
 
 ## 🎯 Goals  
-✔ Keep improving as a **Full Stack Developer**  
-✔ Explore **Cybersecurity** alongside development  
-✔ Build impactful **Open-Source Projects**  
-✔ Land great **Internship & Job Opportunities**  
+✔ Improve as a **Full Stack Developer**  
+✔ Contribute to **Open Source**  
+✔ Build innovative **Projects & Startups**  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adithp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B91&icon_color=FFDD00" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFDD" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adithp&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithp&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithp&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/adithp/adithp/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/adithp/adithp/output/snake.svg)
 
 ---
 
@@ -83,4 +91,4 @@
 
 ---
 
-✨ *Always Learning • Always Building • Always Growing* ✨
+<p align="center">✨ Always Learning • Always Building • Always Growing ✨</p>
